@@ -1,0 +1,117 @@
+.body-general {
+    margin: 0px;
+    background-color: rgb(118, 206, 238);
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
+
+#button-innova {
+    font-size: 16px;
+    text-align: center;
+    border-radius: 8px;
+    padding: 10px 20px;
+    margin-left: 25%;
+}
+
+.page-nav {
+    
+    background-color: rgb(118, 206, 238);
+    position: relative;
+}
+
+.page-nav #titulo-planes{
+    margin-left: 10px;
+    margin: 20px;
+    margin-top:0px;
+    text-align: center;
+    color: #036f93;
+}
+
+#checkout {
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(83, 183, 245);
+    color: black;
+    border: 1px solid #f4f9fa; /* Blue */
+    transition-duration: 0.4s;
+    position: absolute;
+    margin-top: 10px;
+    right: 15px;
+    bottom: 5px;
+    height: 30px;
+    width: 80px;
+    cursor: pointer;
+}
+
+
+.page-content {
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.product-container .precio-plan {
+    text-align: center;
+    color: darkorange;
+    font-family: 'Times New Roman', Times;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.Paquetes-innova{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.product-container .vel-container {
+    text-align: center;
+    color: #07589a;
+    font-family: Times;
+    font-size: 13px;
+    padding: 0px 8px;
+    margin-bottom: 20px;
+    
+}
+
+.product-container {
+    height:220px;
+    width: 200px;
+    margin: 20px;
+    padding: 20px 20px;
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1);
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0 10px rgba(0,0,0,0.6);
+    -moz-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+    -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+    -o-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+
+}
+
+
+.innova-plan{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size:28px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#036f93;
+}
+
+.button-add {
+    font-size: small;
+    background-color: white;
+    color: black;
+    border: 1px solid #344599; /* Green */
+    transition-duration: 0.4s;
+    padding: 6px 10px;
+    right: 5px;
+    bottom: 1px;
+
+    cursor: pointer;
+    
+    
+    
+}
+  
+.button-add:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}

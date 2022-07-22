@@ -1,0 +1,168 @@
+
+.contenedorg-nosotros-12345{
+    margin-top: 30px;
+    
+}
+
+.p-nosotros-12345{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+
+.servicio1-nosotros{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 5px;
+    background-color: #0786cf;    
+}
+
+.servicio1-nosotros >h3{
+    padding-top: 20px;
+    color: #925858;   
+}
+.servicio2-nosotros{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 5px;
+    background-color: #59A8D4;
+}
+.servicio2-nosotros >h3{
+    padding-top: 20px;
+    color: #ffffff;
+    
+}
+.servicio3-nosotros{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 5px;
+    background-color: #0C71AA;
+}
+.servicio3-nosotros >h3{
+    padding-top: 20px;
+    color: #ffffff;
+    
+}
+
+@media (min-width:800px) {
+    .servicios{
+        display: grid;
+        grid-template-columns: 33.3% 33.3% 33.3%;
+        column-gap: 10px;
+    }    
+}
+
+@media (min-width:800px) {
+    .serviciostrayectoria{
+        display: grid;
+        grid-template-columns: 60% 40%;
+        column-gap: 100px;
+        margin-left: 30px;
+        margin-right: 30px;
+    }    
+}
+.contenedorT-nosotros-123{
+    padding-bottom: 20px;
+}
+
+
+.nuestrosServicios-nosotros-12{
+    padding-top: 2px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+   
+}
+
+.nuestrosServiciosT-nosotros-147{
+    padding-top: 2px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+}
+
+.servicios{    
+    padding-left: 30px;
+    padding-right: 50px;
+    margin-bottom: 30px;
+}
+
+.servicios2{    
+    padding-left: 50px;
+    padding-right: 70px;
+    padding-top: 80px;
+    
+    
+}
+
+.rgbaOscuro{
+    background-color: ffffff;
+}
+.nuestrosServicios{
+    color: var(--primario);
+}
+.rgbaOscuro1{
+    background-color: #8399A6;
+}
+.svgEstilo{
+    display: flex;
+    height: 100px;
+    width: 100px;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--blanco);
+    border-radius: 25px;
+}
+
+.svgEstiloT{
+    display: flex;
+    height: 100px;
+    width: 100px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    padding-left: 230px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+    
+}
+
+.formulario{
+    background-color: var(--gris);
+    border-radius: 10px;
+    padding: 30px;
+}
+.formulario legend{
+    text-align: center;
+    font-size: 20px;
+    color: var(--blanco);
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.dato{
+    width: 100px;
+    padding: 20px;
+    margin: 35px;
+}
+
+.datos{
+    display: flex;
+    justify-items: space-between;
+    flex-wrap: wrap;
+}
+/* input{
+    border-radius: 10px;
+}
+textarea{
+    border-radius: 10px;
+} */
+/* .enviar{
+    text-align: center;
+}
+
+.ver_mas {
+    text-align: center;
+} */

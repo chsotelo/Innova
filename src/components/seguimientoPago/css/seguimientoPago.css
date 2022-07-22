@@ -1,0 +1,84 @@
+
+.containerSeguimientoPago{
+    width: 100%;
+    max-width: 1300px;
+    margin-left: 5%;
+    flex-wrap: wrap;
+
+}
+
+.containerSeguimiento{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+#tituloSeguimiento{
+    margin-bottom: 20px;
+}
+.containerResumenPagoSeguimiento{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+.container-Iconos #iconoFlecha #img-icono-Flecha{
+    height:20px
+}
+
+.container-Iconos{
+    margin-right: 20px;
+}
+
+
+.tableGeneral, th, td{ 
+    
+    color: rgb(42, 45, 52);
+    
+    border-collapse: collapse;
+    /*    border-spacing: 5px;*/
+    padding: 7px;
+    font-size: 15px;
+    margin: 10px;
+
+}
+/* th{
+    color:black;
+   
+}
+tr:nth-child(even){
+    background-color: rgb(255, 255, 255);
+}
+
+tr:nth-child(odd){
+    background-color:rgb(236, 241, 249);
+} */
+
+.containerTablaGeneral{
+    margin-bottom: 30px;
+    
+}
+
+
+
+
+
+#bt-Siguiente{
+    background-color:#0C71AA;
+    margin-top: 5px;
+    margin-left: 90px;
+    width: 202px;
+    height:30px;
+    font-size: 15px;
+    margin-right: 10px;
+    font-weight: bold;
+    color: #ffffff;
+    border: 1px solid #0C71AA;
+    cursor: pointer;
+}
+
+.botonSiguiente-final{
+    margin-left: 30%;
+    margin-bottom: 30px;
+}

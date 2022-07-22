@@ -1,0 +1,179 @@
+
+
+.containerFooterDescripcion{
+    width: 100%;
+    max-width: 1200px;
+    flex-wrap: wrap;
+    margin: auto;
+    padding: 30px;
+    padding-left: 0px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.footer{
+    width: 100%;
+    background: #002053;
+    color: white;
+    /* siempre mantener al final de la pantalla */
+    position: relative;
+    /* cuando la pantalla esta semivacia mantener el footer el ultimo */
+    
+}
+
+.containerLinkRedesSociales img{
+    margin-left: 80px;
+    margin-top: 10px;
+    flex-wrap: wrap;
+}
+.containerLinkRedesSociales .listaRedesFooter li a img {
+    width: 25px;
+    padding: 15px;
+    margin-left: 15px;
+    filter: invert(100%);
+}
+
+.containerLinkRedesSociales ul{
+        padding: 0;
+        margin-top: 0;
+}
+
+.containerLinkRedesSociales .listaRedesFooter li {
+    list-style: none;
+    display: inline;
+}
+
+.containerFooterLinks .contenedorFooterLink ul li{
+    list-style: none;
+   
+
+}
+
+.containerFooterLinks .contenedorFooterLink ul li .linkCabeceroLink{
+    text-decoration: none;
+    color: white;
+    
+ 
+ }
+.containerFooterLinks .contenedorFooterLink ul li a{
+   text-decoration: none;
+   color: #0C71AA;
+
+}
+.containerFooterDescripcion .containerFooterLinks{
+    display: flex;
+    
+}
+.contenedorFooterLink{
+    float: right;
+    margin-left:40px;
+    margin-top: 30px;
+    width: 180px;
+}
+
+.containerLinkRedesSociales p{
+    text-align: center;
+}
+
+.contenedorComentario{
+    margin-top:5px;
+}
+.contenedorComentario p{
+    text-align: center;
+    padding:0px;
+    margin:0px;
+    color:#0C71AA;
+    display: inline;
+    margin-left: 35px;
+    font-size: 20px;
+    
+}
+
+.containerFooterLinks {
+    flex-wrap: wrap;
+}
+
+.finalCopy{
+    padding:1px;
+}
+.finalCopy p{
+    text-align: center;
+    margin:10px;
+    font-size:15px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+/* .containerFooter{
+    background-color: #002053;
+    height: 300px;
+    
+} */
+
+/*
+
+*{
+    margin:0px;
+    padding:0px;
+   
+}
+
+.containerFooter{
+    background-color: #002053;
+    height: 300px;
+    
+}
+
+.footer {
+    padding: 40px;
+    color: #cbee6b;
+}
+.containerLinkRedesSociales{
+    flex: wrap;
+    float: left;
+}
+.containerLinkRedesSociales img{ 
+    width: 100px;
+    }
+.containerLinkRedesSociales .listaRedesFooter{
+    display: flex;
+
+}
+.contenedorComentario{
+    vertical-align:top;
+}
+.containerLinkRedesSociales .listaRedesFooter .lista1 .hola .hola1 {
+    width: 25px;
+    padding: 15px;
+    fill: rgb(255, 255, 255);
+    
+
+}
+.containerLinkRedesSociales .listaRedesFooter .lista1 {
+    list-style: none;
+}
+.contenedorFooterLink ul li {
+    list-style: none;
+}
+
+.contenedorFooterLink ul li a{
+    text-decoration: none;
+    color: #59A8D4;
+}
+.contenedorFooterLink ul li .linkCabeceroLink{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.containerFooterLinks{
+    display: flex;
+    float: right;
+
+
+}
+.contenedorFooterLink{
+    width: 200px;
+    margin: 12px;
+
+}*/

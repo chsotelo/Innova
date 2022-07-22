@@ -1,0 +1,90 @@
+/* estilos para formulario de inicio de sesion */
+.titulo-registrarse-123{
+    margin-left: 105px;
+
+}
+
+
+.form-inicioergistrarse-123{ 
+   margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+
+.form-group-registrarse-125 {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    
+}
+
+
+
+.btn-registrarse-124 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: auto;
+    border-radius: 5%;
+    background-color: #2aadf9;
+    color: #fff;
+    height: 30px;
+    width: 100px;
+    border: 1px solid #0c84c9;
+}
+
+.form-registrarse-1235{
+    /* centrar el formuklario */
+    
+    height: 100%;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #000000;
+    border-radius: 2px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    background-color: #fff;
+    padding: 80px;
+   
+}
+
+
+
+.form-control-registrarse-1258 {
+    margin-bottom: 2px;
+    margin-top: 10px;
+    border-radius: 2px;
+    border: 1px solid #090a0b;
+    /* aumentarle el tamaño del cuadrado */
+    width: 375px;
+    height: 25px;
+    margin-left: 8px;
+    margin-right: auto;
+    padding-left: 10px;
+   
+}
+
+.form-control-registrarse-125 {
+    margin-bottom: 2px;
+    margin-top: 10px;
+    border-radius: 2px;
+    border: 1px solid #090a0b;
+    width: 175px;
+    height: 25px;
+    margin-left: 9px;
+    padding-left: 10px;
+}
+
+.imagenFondo-registrarse{
+    background-image: url("../../../images/fondo-registrarse.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}

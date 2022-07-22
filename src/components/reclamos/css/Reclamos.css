@@ -1,0 +1,82 @@
+.contenedor{
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+
+.formulario{
+    background-color: #8399A6;
+    border-radius: 40px;
+    padding: 30px;
+    
+    
+}
+.formulario legend{
+    text-align: center;
+    font-size: 20px;
+    color: var(--blanco);
+    text-transform: uppercase;
+    font-weight: bold;
+   
+}
+.dato{
+    width: 100px;
+    padding: 35px;
+    margin: 35px;
+    height: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    
+}
+.dato label{
+    color: var(--blanco);
+    display: block;
+    
+    
+}
+.dato1 label{
+    color: var(--blanco);
+    display: block;
+    padding-left: 0px;
+      
+}
+.dato1 {
+    color: var(--blanco);
+    display: block;
+    padding-left: 70px;
+    padding-bottom: 20px;
+      
+}
+
+
+.datos{
+    display: flex;
+    justify-items: space-between;
+    flex-wrap: wrap;
+    
+    
+}
+
+input{
+    border-radius: 10px;
+}
+textarea{
+    border-radius: 10px;
+    
+    
+}
+.enviar{
+    text-align: right;
+    padding-right: 60px;
+    
+}
+.enviar input{
+    background-color:#002053;
+    color: #ffffff;
+    
+    
+}
+

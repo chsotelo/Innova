@@ -1,0 +1,159 @@
+.antena-visualizacion-1234 {
+  width: 200px;
+  margin-top: 10%;
+  margin-bottom: 5%;
+  margin-left: 5px;
+  flex-wrap: wrap;
+}
+
+.btn-123 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  height: 30px;
+  width: 300px;
+  border: 1px solid #000000;
+}
+
+.general-visualizacion-12598 {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Visualizacion-Informacion-Plan {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+}
+.container-Botones {
+  display: flex;
+}
+
+.h4-Comentario {
+  margin-left: 15px;
+  margin-top: 3px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif,
+    Helvetica, Sans-serif;
+}
+
+.section-ControlDia {
+  margin-top: 10px;
+}
+
+.picture-a .a-ImgDias #imgAgregador {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+#h2-ControlDias {
+  text-align: center;
+  margin-top: 5px;
+  margin-left: 10px;
+}
+
+.control-group-DiasRestantes {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/*parte de las cotizaciones*/
+
+.container-Cotizaciones {
+  background-color: #ffffff;
+  width: 480px;
+  height: 400px;
+  margin-bottom: 15px;
+  margin-left: 30%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  -o-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+}
+#bt-Descargar-Formato {
+  background-color: white;
+  margin-top: 15px;
+  margin-left: 15px;
+  margin-bottom: 15px;
+  width: 202px;
+  height: 30px;
+  font-size: 15px;
+  font-weight: bold;
+  color: #0c71aa;
+  border: 1px solid #0c71aa;
+  cursor: pointer;
+}
+
+#h3-Contizacion {
+  margin-left: 15px;
+  margin-top: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif,
+    Helvetica, Sans-serif;
+  margin-bottom: 20px;
+}
+#lavel-comentario {
+  margin-left: 15px;
+}
+
+#h5-Contizacion-Comentario {
+  margin-top: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.containerSection-Cotizacion {
+  margin-top: 30px;
+}
+
+.imagen-de-subida #img-CargarIMG {
+  margin-top: 20px;
+  width: 40px;
+  height: 40px;
+  margin-left: 45%;
+}
+.container-Subir-Archivo {
+  background-color: #e6f1fb;
+  height: 160px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+#h3-Comentario-Subir {
+  color: #174f82;
+  text-align: center;
+  margin-top: 30px;
+}
+#h5-Comentario-Arrastra {
+  text-align: center;
+}
+.Boton-Naranja-Enviar {
+  margin-top: 10px;
+  margin-left: 25%;
+}
+
+.progress {
+  background: rgba(50, 230, 50, 0.8);
+  justify-content: flex-start;
+  border-radius: 100px;
+  align-items: center;
+  position: relative;
+  padding: 0 5px;
+  display: flex;
+  height: 40px;
+  width: 500px;
+}
+
+.progress-value {
+  animation: load 3s normal forwards;
+  box-shadow: 0 10px 40px -10px black;
+  border-radius: 100px;
+  background: #fff;
+  height: 30px;
+  width: 0;
+}
+
+

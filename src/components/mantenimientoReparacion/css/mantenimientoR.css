@@ -1,0 +1,86 @@
+
+
+.bodyServicio{
+    margin-top:20px;
+    max-width: 1300px;
+}
+
+.titulo-Mantenimiento{
+    
+    color: #0C71AA;
+    margin-left: 30px;
+
+}
+
+.informacion-Reparacion{
+    margin-top: 20px;
+    margin-left: 50px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+}
+.imagenesPublicidad{
+    margin:0px;
+
+}
+.imagenesPublicidad #img-flyer{
+    width: 238px;
+    right: 250px;
+    margin-right:10px;
+    border-radius: 5px
+}
+#h2-titulo2{ 
+    margin:25px;
+    color: #0C71AA;
+}
+.containerArticle{
+    border: 1px solid #0C71AA;
+    border-radius:10px;
+}
+
+.article-Instalacion{
+    margin-left: 30px;
+
+    margin-bottom: 15px;
+}
+#h3-titulo3{ 
+    color: #0C71AA;
+}
+#p-Comentario{
+    
+    margin-top: 12px;
+    margin-left: 30px;
+}
+
+
+.svgIconoUbicacion #img-locate{
+ height: 24px;
+ margin-top: 80px;
+ margin-left: 426px;
+}
+
+
+.containerMap{
+    background-color: rgb(226, 203, 203);
+    width: 872px;
+    height: 295px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    border: 1px solid #000000;
+
+}
+
+.botonVerMapa{
+    flex-wrap: wrap;
+    background-color: #002053;
+    margin-top: 10px;
+    margin-left: 375px;
+    border-radius:5px;
+    cursor: pointer;
+}
+
+.botonVerMapa #spam-Mapa{
+    color: #ffff;
+    font-size: 15px;
+    margin: 10px;
+}

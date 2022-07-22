@@ -1,0 +1,80 @@
+
+
+
+.form-group-inicio-sesion {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    
+}
+
+.form-inicio-sesion-123456{
+    margin-bottom: 100px;
+}
+
+.general-inicio-sesion{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: auto;
+    padding-right: auto;
+}
+
+.btn-123-inicio-sesion {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: auto;
+    border-radius: 10%;
+    background-color: #2aadf9;
+    color: #fff;
+    height: 30px;
+    width: 100px;
+    border: 2px solid #0c84c9;
+}
+
+.form-inicio-sesion-12{
+    /* centrar el formuklario */
+    
+    height: 100%;
+    width: 420px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    padding-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #000000;
+    border-radius: 8px;
+    margin-top: 180px;
+    /* margin-bottom: 280px; */
+    background-color: #fff;
+   
+}
+
+
+.form-control-inicio-sesion {
+    margin-bottom: 2px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 1px solid #93989c;
+    /* aumentarle el tamaño del cuadrado */
+    width: 375px;
+    height: 25px;
+    margin-left: 8px;
+    margin-right: auto;
+    padding-left: 10px;
+   
+}
+
+
+.imagenFondo-inicio-sesion{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
